@@ -207,6 +207,7 @@
         margin-top: -1px;
       }
     }
+    /* Your existing CSS styles */
   </style>
 </head>
 
@@ -233,10 +234,13 @@
     const copyBtn = document.getElementById('copy-btn');
 
     // Get the URL parameters
-    const urlParams = new URLSearchParams(window.location.search);
+const urlParams = new URLSearchParams(window.location.search);
 
-    // Get the M3U file link from the URL parameter
-    const m3uLink = urlParams.get('m3u');
+// Get the M3U file link from the URL parameter (without "m3u=")
+let m3uLink = window.location.search.replace('?', '');
+
+// Set the value of the link input
+linkInput.value = m3uLink;
 
     // Set the value of the link input
     linkInput.value = m3uLink;
@@ -249,4 +253,5 @@
     });
   </script>
 </body>
+
 </html>
