@@ -1,3 +1,9 @@
+#EXTINF:-1 tvg-id="" group-title="join Telegram" tvg-logo="https://i.ibb.co/kQBtFj4/IMG-20240416-113332.jpg" ,t.me/m3u_lovers
+https://t.me/m3u_lovers
+
+#EXTINF:-1 tvg-id="ts8" tvg-logo="https://i.ibb.co/YkVLM5z/Screenshot-2024-03-29-194944.png" group-title="IPL 2024",Star 4K
+https://toxicify.pro/gz/jio.m3u8?id=18855
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=587
 #EXTINF:-1 tvg-id=ts587 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35365-jr3xz4uo-v5/imageContent-35365-jr3xz4uo-m6.png" group-title="Tata Sky",Super Hungama
@@ -61,11 +67,6 @@ https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
 #EXTINF:-1 tvg-id=ts867 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-57985-khvdchrs-v2/imageContent-57985-khvdchrs-m2.png" group-title="Tata Sky",Gubbare
 https://toxicify.pro/peace/kfc/867.mpd
 
-#EXTINF:-1 tvg-id="" group-title="join Telegram" tvg-logo="https://i.ibb.co/kQBtFj4/IMG-20240416-113332.jpg" ,t.me/m3u_lovers
-https://t.me/m3u_lovers
-
-#EXTINF:-1 tvg-id="ts8" group-logo="https://i.ibb.co/dPMLKZt/IPL-2024-Points-Table.jpg" tvg-logo="https://i.ibb.co/YkVLM5z/Screenshot-2024-03-29-194944.png" group-title="IPL 2024",Star 4K
-https://toxicify.pro/gz/jio.m3u8?id=18855
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=24
