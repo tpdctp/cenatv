@@ -1,16 +1,68 @@
-<html>
-</head>
-<body>
-<p>You will be redirected in 1 seconds.</p>
-<script>
-window.location.href = "https://t.me/momixtv";
-</script>
-</html>
-<noscript>
-<p>This page requires JavaScript to function properly.</p>
-</noscript>
-#EXTINF:-1 tvg-id="" group-title="𝗝𝗢𝗜𝗡 𝗢𝗨𝗥 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠" tvg-logo="https://i.postimg.cc/NMxByxGV/IMG-20240401-141607-227.jpg" ,MOMIXTV
-https://t.me/momixtv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=587
+#EXTINF:-1 tvg-id=ts587 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35365-jr3xz4uo-v5/imageContent-35365-jr3xz4uo-m6.png" group-title="Tata Sky",Super Hungama
+https://toxicify.pro/peace/kfc/587.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=114
+#EXTINF:-1 tvg-id=ts114 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png" group-title="Tata Sky",Disney
+https://toxicify.pro/peace/kfc/114.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=144
+#EXTINF:-1 tvg-id=ts144 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35368-jr3xz7xs-v1/imageContent-35368-jr3xz7xs-m1.png" group-title="Tata Sky",Disney Junior
+https://toxicify.pro/peace/kfc/144.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=138
+#EXTINF:-1 tvg-id=ts138 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-465-j5jw9va0-v1/imageContent-465-j5jw9va0-m1.png" group-title="Tata Sky",Nick
+https://toxicify.pro/peace/kfc/138.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=433
+#EXTINF:-1 tvg-id=ts433 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11658-j9k5lvgo-v1/imageContent-11658-j9k5lvgo-m1.png" group-title="Tata Sky",Nick HD+
+https://toxicify.pro/peace/kfc/433.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=118
+#EXTINF:-1 tvg-id=ts118 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-390-j5jpps1s-v1/imageContent-390-j5jpps1s-m1.png" group-title="Tata Sky",Nick Jr
+https://toxicify.pro/peace/kfc/118.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=239
+#EXTINF:-1 tvg-id=ts239 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-2694-j638bugw-v1/imageContent-2694-j638bugw-m1.png" group-title="Tata Sky",Pogo
+https://toxicify.pro/peace/kfc/239.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=238
+#EXTINF:-1 tvg-id=ts238 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11161-j99h67u8-v1/imageContent-11161-j99h67u8-m1.png" group-title="Tata Sky",Cartoon Network
+https://toxicify.pro/peace/kfc/238.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=681
+#EXTINF:-1 tvg-id=ts681 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34164-jok06xoo-v1/imageContent-34164-jok06xoo-m1.png" group-title="Tata Sky",Cartoon Network HD+
+https://toxicify.pro/peace/kfc/681.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=119
+#EXTINF:-1 tvg-id=ts119 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24724-jgvwokqw-v1/imageContent-24724-jgvwokqw-m1.png" group-title="Tata Sky",Discovery Kids
+https://toxicify.pro/peace/kfc/119.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=127
+#EXTINF:-1 tvg-id=ts127 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8018-j7a7n1a8-v1/imageContent-8018-j7a7n1a8-m1.png" group-title="Tata Sky",Sonic Nickelodeon
+https://toxicify.pro/peace/kfc/127.mpd
+
+#EXTINF:-1 tvg-id="ts45" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-132-j5fpedbs-v4/imageContent-132-j5fpedbs-m6.png" group-title="🧒 Kids",SONY YAY!
+https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=867
+#EXTINF:-1 tvg-id=ts867 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-57985-khvdchrs-v2/imageContent-57985-khvdchrs-m2.png" group-title="Tata Sky",Gubbare
+https://toxicify.pro/peace/kfc/867.mpd
+
+#EXTINF:-1 tvg-id="" group-title="join Telegram" tvg-logo="https://i.ibb.co/kQBtFj4/IMG-20240416-113332.jpg" ,t.me/m3u_lovers
+https://t.me/m3u_lovers
 
 #EXTINF:-1 tvg-id="ts8" group-logo="https://i.ibb.co/dPMLKZt/IPL-2024-Points-Table.jpg" tvg-logo="https://i.ibb.co/YkVLM5z/Screenshot-2024-03-29-194944.png" group-title="IPL 2024",Star 4K
 https://toxicify.pro/gz/jio.m3u8?id=18855
@@ -205,67 +257,5 @@ https://rftv.wtf/tp/slingtv.mpd?contentID=677
 #EXTINF:-1 tvg-id=ts676 tvg-logo="http://p-img.movetv.com/cms/images/b7c5841c82ec21c38cd43815c7c49791ae3bcc56.png" group-title="SlingTV",Willow Cricket HD
 https://rftv.wtf/tp/slingtv.mpd?contentID=676
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=587
-#EXTINF:-1 tvg-id=ts587 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35365-jr3xz4uo-v5/imageContent-35365-jr3xz4uo-m6.png" group-title="Tata Sky",Super Hungama
-https://toxicify.pro/peace/kfc/587.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=114
-#EXTINF:-1 tvg-id=ts114 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png" group-title="Tata Sky",Disney
-https://toxicify.pro/peace/kfc/114.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=144
-#EXTINF:-1 tvg-id=ts144 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35368-jr3xz7xs-v1/imageContent-35368-jr3xz7xs-m1.png" group-title="Tata Sky",Disney Junior
-https://toxicify.pro/peace/kfc/144.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=138
-#EXTINF:-1 tvg-id=ts138 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-465-j5jw9va0-v1/imageContent-465-j5jw9va0-m1.png" group-title="Tata Sky",Nick
-https://toxicify.pro/peace/kfc/138.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=433
-#EXTINF:-1 tvg-id=ts433 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11658-j9k5lvgo-v1/imageContent-11658-j9k5lvgo-m1.png" group-title="Tata Sky",Nick HD+
-https://toxicify.pro/peace/kfc/433.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=118
-#EXTINF:-1 tvg-id=ts118 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-390-j5jpps1s-v1/imageContent-390-j5jpps1s-m1.png" group-title="Tata Sky",Nick Jr
-https://toxicify.pro/peace/kfc/118.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=239
-#EXTINF:-1 tvg-id=ts239 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-2694-j638bugw-v1/imageContent-2694-j638bugw-m1.png" group-title="Tata Sky",Pogo
-https://toxicify.pro/peace/kfc/239.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=238
-#EXTINF:-1 tvg-id=ts238 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11161-j99h67u8-v1/imageContent-11161-j99h67u8-m1.png" group-title="Tata Sky",Cartoon Network
-https://toxicify.pro/peace/kfc/238.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=681
-#EXTINF:-1 tvg-id=ts681 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34164-jok06xoo-v1/imageContent-34164-jok06xoo-m1.png" group-title="Tata Sky",Cartoon Network HD+
-https://toxicify.pro/peace/kfc/681.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=119
-#EXTINF:-1 tvg-id=ts119 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24724-jgvwokqw-v1/imageContent-24724-jgvwokqw-m1.png" group-title="Tata Sky",Discovery Kids
-https://toxicify.pro/peace/kfc/119.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=127
-#EXTINF:-1 tvg-id=ts127 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8018-j7a7n1a8-v1/imageContent-8018-j7a7n1a8-m1.png" group-title="Tata Sky",Sonic Nickelodeon
-https://toxicify.pro/peace/kfc/127.mpd
-
-#EXTINF:-1 tvg-id="ts45" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-132-j5fpedbs-v4/imageContent-132-j5fpedbs-m6.png" group-title="🧒 Kids",SONY YAY!
-https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=867
-#EXTINF:-1 tvg-id=ts867 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-57985-khvdchrs-v2/imageContent-57985-khvdchrs-m2.png" group-title="Tata Sky",Gubbare
-https://toxicify.pro/peace/kfc/867.mpd
 
 
