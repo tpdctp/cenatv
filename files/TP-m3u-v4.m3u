@@ -118,7 +118,7 @@ https://t.me/m3u_lovers
 #EXTINF:-1 tvg-id="587" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35365-jr3xz4uo-v5/imageContent-35365-jr3xz4uo-m6.png" group-title="Kids",Super Hungama
 https://rftv.wtf/tp/tplay.mpd?contentID=587
 
-#EXTINF:-1 tvg-id="abc" tvg-logo="" group-title="Kids | TG:m3u_lovers",Hungama
+#EXTINF:-1 tvg-id="abc" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQiziGnwseUSSoDlZqHl5z3YKHWo0ToGCIe6R5BUPeeLj784Vyy9yVSkuHovM0f56e2hoOe" group-title="Kids | TG:m3u_lovers",Hungama Multi Audio
 https://ardinesh-nettv.puspas.com.np/auth40HOvVemBD/live/nettv-universal/hungama-tv/index.ts
 
 
