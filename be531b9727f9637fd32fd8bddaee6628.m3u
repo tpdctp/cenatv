@@ -1,3 +1,13 @@
-#EXTM3U
-#EXTINF:-1,Shinchan
+<html>
+	<head>
+		<script>
+			window.location.replace("https://t.me/m3u_lovers/");
+		</script>
+	</head>
+</html>
+#EXTM3U x TG:m3u_lovers playlist
+#EXTINF:-1 tvg-id="" group-title="Join telegram @m3u_lovers" tvg-logo="https://i.ibb.co/BGwxHVB/IMG-20240315-140552-507.jpg" ,t.me/m3u_lovers
+https://t.me/m3u_lovers
+
+#EXTINF:-1,Hungama Multi Audio
 http://103.131.214.129:9985/stream/channel/be531b9727f9637fd32fd8bddaee6628?ticket=FDEC625B087FFF202B559080AB5A40318E8132A8
