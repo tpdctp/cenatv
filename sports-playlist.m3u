@@ -1,0 +1,53 @@
+#EXTM3U 
+#EXTINF: -1 group-title="Sports-Extra", A sports
+http://tv.cloudcdn.me/live.ts?channelId=12217&uid=13086&deviceMac=00:1A:79:00:02:27
+#EXTINF: -1 group-title="Sports-Extra", Astro Cricket
+http://176.119.29.52/live.ts?channelId=26034&uid=13086&deviceMac=00:1A:79:00:02:27
+#EXTINF: -1 group-title="Sports-Extra", Astro cricket.
+http://176.119.29.52/live.ts?channelId=33317&uid=13086&deviceMac=00:1A:79:00:02:27
+#EXTINF: -1 group-title="Sports-Extra", Fox Sports 502
+http://176.119.29.52/live.ts?channelId=294&uid=13086&deviceMac=00:1A:79:00:02:27
+#EXTINF: -1 group-title="Sports-Extra", PTV Sports FHD
+http://tv.cloudcdn.me/live.ts?channelId=278&uid=13086&deviceMac=00:1A:79:00:02:27
+#EXTINF: -1 group-title="Sports-Extra", Sky Sports Cricket
+http://176.119.29.52/live.ts?channelId=281&uid=13086&deviceMac=00:1A:79:00:02:27
+#EXTINF: -1 group-title="Sports-Extra", Sports 18 HD
+http://tv.cloudcdn.me/live.ts?channelId=102479&uid=13086&deviceMac=00:1A:79:00:02:27
+#EXTINF: -1 group-title="Sports-Extra", Sony TEN 1
+http://tv.cloudcdn.me/live.ts?channelId=289&uid=13086&deviceMac=00:1A:79:00:02:27
+#EXTINF: -1 group-title="Sports-Extra", Sony TEN 2
+http://tv.cloudcdn.me/live.ts?channelId=290&uid=13086&deviceMac=00:1A:79:00:02:27
+#EXTINF: -1 group-title="Sports-Extra", Sony TEN 3
+http://tv.cloudcdn.me/live.ts?channelId=291&uid=13086&deviceMac=00:1A:79:00:02:27
+#EXTINF: -1 group-title="Sports-Extra", Sony TEN 4
+http://tv.cloudcdn.me/live.ts?channelId=105349&uid=13086&deviceMac=00:1A:79:00:02:27
+#EXTINF: -1 group-title="Sports-Extra", Sony TEN 5
+http://176.119.29.52/live.ts?channelId=105350&uid=13086&deviceMac=00:1A:79:00:02:27
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs2sid7D9_S1XLw86fVKVdh-u8C29chQyhgJjiGwPt25PMQsRQcx_3ow4&s=10" group-title="Sports-Extra", Star Sports 1 FHD
+http://tv.cloudcdn.me/live.ts?channelId=293&uid=13086&deviceMac=00:1A:79:00:02:27
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs2sid7D9_S1XLw86fVKVdh-u8C29chQyhgJjiGwPt25PMQsRQcx_3ow4&s=10" group-title="Sports-Extra", Star Sports 1 FHD.
+http://tv.cloudcdn.me/live.ts?channelId=49566&uid=13086&deviceMac=00:1A:79:00:02:27
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRpeFpAz5Y6xWa9F53WJssajchg2nzlgALVXd5oiBoJ_1W968rwn8GC7k&s=10" group-title="Sports-Extra", Star Sports 1 hindi FHD
+http://tv.cloudcdn.me/live.ts?channelId=295&uid=13086&deviceMac=00:1A:79:00:02:27
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRpeFpAz5Y6xWa9F53WJssajchg2nzlgALVXd5oiBoJ_1W968rwn8GC7k&s=10" group-title="Sports-Extra", Star Sports 1 FHD.
+http://176.119.29.52/live.ts?channelId=49569&uid=13086&deviceMac=00:1A:79:00:02:27
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQahp7tyhnCLckAJSqYJhwciT4M580MG9m0mw&s" group-title="Sports-Extra", Star Sports 1 Tamil
+http://176.119.29.52/live.ts?channelId=275&uid=13086&deviceMac=00:1A:79:00:02:27
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZzpFLoi-1YMYbyUMcegneNrzeRkIdmRAgQQ&s" group-title="Sports-Extra", Star Sports 1 Telugu
+http://176.119.29.52/live.ts?channelId=288&uid=13086&deviceMac=00:1A:79:00:02:27
+#EXTINF: -1 group-title="Sports-Extra", Willow Cricket HD
+http://176.119.29.52/live.ts?channelId=302&uid=13086&deviceMac=00:1A:79:00:02:27
+#EXTINF: -1 group-title="Sports-Extra", Willow Cricket HD.
+http://176.119.29.52/live.ts?channelId=40481&uid=13086&deviceMac=00:1A:79:00:02:27
+#EXTINF: -1 group-title="Sports-Extra", Willow Xtra
+http://tv.cloudcdn.me/live.ts?channelId=287&uid=13086&deviceMac=00:1A:79:00:02:27
+#EXTINF: -1 group-title="Sports-Extra", Sky Sports Main Event FHD
+http://176.119.29.52/live.ts?channelId=284&uid=13086&deviceMac=00:1A:79:00:02:27
+#EXTINF: -1 group-title="Sports-Extra", Sky Sports Premier League FHD
+http://tv.cloudcdn.me/live.ts?channelId=286&uid=13086&deviceMac=00:1A:79:00:02:27
+#EXTINF: -1 group-title="Sports-Extra", World Cup Special
+http://tv.cloudcdn.me/live.ts?channelId=88853&uid=13086&deviceMac=00:1A:79:00:02:27
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYLKKOjR9i9rhX0xy-zmIH1zgyFOKCngwYyK5m1JHt1Q&s" group-title="Sports-Extra", ⚡⚡ Star 4K ⚡⚡
+http://176.119.29.52/live.ts?channelId=102423&uid=13086&deviceMac=00:1A:79:00:02:27
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRpeFpAz5Y6xWa9F53WJssajchg2nzlgALVXd5oiBoJ_1W968rwn8GC7k&s=10" group-title="Sports-Extra", Star Sports 1 Hindi HD backup
+http://vo01.mohdtv.com:8880/live/ALLChannels48062c020013/50254498/55273.ts
