@@ -1,15 +1,9 @@
-<html>
-	<head>
-		<script>
-			window.location.replace("https://t.me/m3u_lovers/");
-		</script>
-	</head>
-</html>
+// CREATED & PACKED BY @yuvraj824 , Join @m3u_lovers community in TELEGRAM //
+
 #EXTM3U
 #EXTINF:-1 tvg-id="" group-title="⚡Playlist but @m3u_lovers" tvg-logo="https://i.ibb.co/BGwxHVB/IMG-20240315-140552-507.jpg" ,t.me/m3u_lovers
 https://t.me/m3u_lovers
 
-// CREATED & PACKED BY @yuvraj824 , Join @m3u_lovers community in TELEGRAM //
 
 #EXTINF:-1 tvg-id="1000009246" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV by @yuvraj824", SET HD
 https://yuvraj43.xyz/sliv/index.m3u8?ch=SETHD&id=2011671
